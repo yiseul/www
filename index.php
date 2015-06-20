@@ -92,9 +92,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				 	
 				 ?>
 				 
-				 
-
-				 					 
 				 </ul>
 			 </div>
 			 <div class="clearfix"> </div>
@@ -117,29 +114,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <?php  echo $content; ?>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!---->
 <div class="get-started">
 	 <div class="container">
-		 <h4 class="wow bounceInLeft" data-wow-delay="0.5s">We Ready to Help You</h4>
-		 <h3 class="wow bounceInRight" data-wow-delay="0.5s">Connect </h3>
+		 <h4 class="wow bounceInLeft" data-wow-delay="0.5s">We are Ready to Help You</h4>
+		 <h3 class="wow bounceInRight" data-wow-delay="0.5s">Lock Smarter</h3>
 	 </div>
 </div>
 <!---->
