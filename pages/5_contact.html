@@ -2,8 +2,15 @@
 <script>
  $(document).ready(function() {
    $('#contact_submit').click(function(){
-      	$('#contact_form').hide();
-      	$('#contact_answer').show();
+      	$.post("mail.php", {
+      	   txt : $('#contact_txt').val(),
+      	   name : $('#contact_name').val(),
+      	   email : $('#contact_email').val(),
+      	   subject : $('#contact_subject').val()
+      	}, function() {
+	      	$('#contact_form').hide(500);
+	      	$('#contact_answer').show(500);
+      	});
    });
  });
 </script>
@@ -18,12 +25,12 @@
 		  <div id="contact_form" class="contact-form" >
 				<form>
 					<div class="col-md-6 text-box">
-						<input class="wow fadeInLeft" data-wow-delay="0.5s" type="text" placeholder="Name" />
-						<input class="wow fadeInLeft" data-wow-delay="0.5s" type="text" placeholder="Email" />
-						<input class="wow fadeInLeft" data-wow-delay="0.5s" type="text" placeholder="Subject" />
+						<input  id="contact_name" class="wow fadeInLeft" data-wow-delay="0.5s" type="text" placeholder="Name" />
+						<input  id="contact_email" class="wow fadeInLeft" data-wow-delay="0.5s" type="text" placeholder="Email" />
+						<input  id="contact_subject" class="wow fadeInLeft" data-wow-delay="0.5s" type="text" placeholder="Subject" />
 				    </div>
 					 <div class="col-md-6 textarea">
-							<textarea class="wow fadeInRight" data-wow-delay="0.5s">Message</textarea>
+							<textarea id="contact_txt" class="wow fadeInRight" data-wow-delay="0.5s">Message</textarea>
 							<input id="contact_submit" class="wow fadeInRight" data-wow-delay="0.5s" type="button" value="SUBMIT" />
 					  </div>
 					  <div class="clearfix"> </div>					  
