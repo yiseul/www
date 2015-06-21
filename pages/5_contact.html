@@ -1,10 +1,21 @@
-<!-- CONTACT -->	 
+<!-- CONTACT -->
+<script>
+ $(document).ready(function() {
+   $('#contact_submit').click(function(){
+      	$('#contact_form').hide();
+      	$('#contact_answer').show();
+   });
+ });
+</script>
 	 <div class="container">
 		 <div class="contact-text text-center">
 			 <h3>contact</h3>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+			<p>How can we help you?</p>
 		 </div>
-		  <div class="contact-form">
+		  <div id="contact_answer" class="contact-form" style="display:none" >
+		  	<p>Thank you!</p>
+		  </div>
+		  <div id="contact_form" class="contact-form" >
 				<form>
 					<div class="col-md-6 text-box">
 						<input class="wow fadeInLeft" data-wow-delay="0.5s" type="text" placeholder="Name" />
@@ -13,7 +24,7 @@
 				    </div>
 					 <div class="col-md-6 textarea">
 							<textarea class="wow fadeInRight" data-wow-delay="0.5s">Message</textarea>
-							<input class="wow fadeInRight" data-wow-delay="0.5s" type="submit" value="SUBMIT" />
+							<input id="contact_submit" class="wow fadeInRight" data-wow-delay="0.5s" type="button" value="SUBMIT" />
 					  </div>
 					  <div class="clearfix"> </div>					  
 			  </form>
