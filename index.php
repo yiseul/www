@@ -58,7 +58,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	 <div class="container">
 		 <div class="header">	 
 			 <div class="logo wow fadeInLeft" data-wow-delay="0.5s">
-			 <a href="index.html"><img src="images/logo2.png" alt=""/></a>
+			 <a href="index.php"><img src="images/logo2.png" alt=""/></a>
 			 </div>	
 			 <div class="top-menu">
 				 <span class="menu"> </span> 
