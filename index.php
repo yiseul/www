@@ -121,7 +121,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	 </div>
 </div>
 <!---->
-<div class="footer">
+<div class="footer page">
 	 <div class="container">
 		 <div class="ftr-logo">
 			 <a class="wow bounceIn" data-wow-delay="0.5s" href="index.php"><img src="images/logo2.png" alt=""/></a>
