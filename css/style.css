@@ -1295,7 +1295,7 @@ resize: none;
 .textarea{
 text-align:right;
 }
-.textarea input[type="submit"] {
+.textarea input[type="submit"], .textarea input[type="button"] {
 background: #0199e6;
 border: 1px solid #0199e6;
 color: #fff;
@@ -1310,7 +1310,7 @@ margin: 0 auto;
 -webkit-appearance: none;
 border-radius: 5px;
 }
-.textarea input[type="submit"]:hover{
+.textarea input[type="submit"]:hover, .textarea input[type="button"]:hover{
 color:#0199e6;
 border: 1px solid #0199e6;
 background:transparent;
