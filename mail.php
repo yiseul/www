@@ -1,5 +1,5 @@
 <?php 
-if(strpos($_SERVER['HTTP_REFERER']),'slock') !== false) { 
+if(strpos($_SERVER['HTTP_REFERER'],'slock') !== false) { 
     $to = "info@xonia7.de"; // this is your Email address
     $from = $_POST['email']; // this is the sender's Email address
     $name = $_POST['name'];
