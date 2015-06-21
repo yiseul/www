@@ -114,14 +114,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <?php  echo $content; ?>
 
 
-<div class="get-started">
+<div class="get-started page">
 	 <div class="container">
 		 <h4 class="wow bounceInLeft" data-wow-delay="0.5s">We are Ready to Help You</h4>
 		 <h3 class="wow bounceInRight" data-wow-delay="0.5s">Lock Smarter</h3>
 	 </div>
 </div>
 <!---->
-<div class="footer page">
+<div class="footer">
 	 <div class="container">
 		 <div class="ftr-logo">
 			 <a class="wow bounceIn" data-wow-delay="0.5s" href="index.php"><img src="images/logo2.png" alt=""/></a>
