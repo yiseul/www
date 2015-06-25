@@ -86,7 +86,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				 		$id    = str_replace(".html","",$file);
 				 		$descr = (strlen($first)>0)?$first: $pathinfo['filename'];
 				 		echo "<li><a class=\"scroll\" href=\"#$id\">$descr</a></li>";
-				 		$content = $content . "<div id=\"$id\" class=\"$id page\">". implode("\n", $lines) . "</div>";
+				 		$content = $content . "<div id=\"$id\" class=\"$id\">". implode("\n", $lines) . "</div>";
 				 	}
 				 }
 				 	
