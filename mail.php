@@ -1,6 +1,6 @@
 <?php 
 if(strpos($_SERVER['HTTP_REFERER'],'slock') !== false) { 
-    $to = "info@xonia7.de; simon.jentzsch.x7@gmail.com"; // this is your Email address
+    $to = "info@xonia7.de, simon.jentzsch.x7@gmail.com"; // this is your Email address
     $from = $_POST['email']; // this is the sender's Email address
     $name = $_POST['name'];
     $subject = "slock.it-request: ".$_POST['subject'];
