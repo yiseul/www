@@ -23,6 +23,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <link href='http://fonts.googleapis.com/css?family=Raleway:400,800,300,100,500,700,600,900' rel='stylesheet' type='text/css'>
 <!--animated-css-->
 <link href="css/animate.css" rel="stylesheet" type="text/css" media="all">
+<link rel="icon" type="image/png" href="images/slock_icon.png">
 <script src="js/wow.min.js"></script>
 <script>
  new WOW().init();
