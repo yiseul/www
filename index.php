@@ -85,6 +85,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				 	$pathinfo = pathinfo($file);
 				 	if (count($lines)>0) { 			// there is content
 				 		$first = trim(str_replace("-->","",str_replace("<!--","",$lines[0])));
+                  if (!$first) continue;
 				 		$id    = str_replace(".html","",$file);
 				 		$descr = (strlen($first)>0)?$first: $pathinfo['filename'];
 				 		echo "<li><a class=\"scroll\" href=\"#$id\">$descr</a></li>";
