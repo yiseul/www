@@ -1,0 +1,50 @@
+<!--  NEWS -->
+<div class="page"><div class="container" >
+   
+    <?php 
+   if (isset($_GET['c'])) {
+        echo "<p ><div class='feature-text' style='padding-bottom:15px'>";
+        include "php/Parsedown.php";
+        $pd = new Parsedown();
+        echo $pd->text(file_get_contents("pages/blog/".$_GET['c'].".md"));
+        echo "</div></p>";
+   }
+   else 
+        echo '<div class="text-center video-text"><h3>BLOG</h3></div>';
+
+   			 if ($bhandle = opendir('pages/blog')) {
+				 	$bpages = array();
+				 	while (false !== ($bfile = readdir($bhandle))) {
+				 		if (strpos($bfile,".md")!==false) $bpages[]=$bfile;
+				 	}
+				 	closedir($bhandle);
+				 
+				 	rsort($bpages);
+				 }
+             
+             $maxEntries = 10;
+				 				 
+				 for ($j=0;$j<count($bpages) && $j<$maxEntries;$j++) {
+				 	$bfile = $bpages[$j];
+				 	$blines    = file("pages/blog/$bfile");
+				 	$bpathinfo = pathinfo($bfile);
+				 	if (count($blines)>0) { 	
+                  $btitle = "";
+                  $bsummary = "";
+                  for ($n=0;$n<count($blines);$n++) {
+                     $l  = trim($blines[$n]);
+                     $fl = $l ? substr($l,0,1) : "";
+                     
+                     if (!$btitle && $fl=="#") $btitle=substr($l,strpos($l," "));
+                     else if ($btitle && $fl) $bsummary=$bsummary." ".$l;
+                     else if ($bsummary) break;
+                  }
+                  $bfile = substr($bfile,0,-3);
+                
+                  echo "<div class='brief-grid-content1'><h3><a href='index.php?c=$bfile#0_blog'>$btitle</a></h3><p>$bsummary</p><div><a href='index.php?c=$bfile#0_blog'>more ...</a></div>";
+				 	}
+				 }
+				 	
+       ?>
+    
+</div></div>

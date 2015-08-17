@@ -2729,3 +2729,24 @@ color: #7f7f7f;
 	  padding: 0;
 	}
 }
+
+
+
+.feature-text h1,.feature-text h2,.feature-text h3 {
+
+  color:#393939;
+  font-family: 'Raleway', sans-serif;
+  background:url(../images/line.png) no-repeat 50% 100%;
+  padding-bottom:0.5em;
+  margin-bottom:10px;
+  font-weight:500;
+
+}   
+
+
+
+.feature-text h2,.feature-text h3 {
+
+  background:url(../images/line.png) no-repeat 0% 100%;
+
+}   
