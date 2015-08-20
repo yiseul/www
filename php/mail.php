@@ -8,9 +8,8 @@ if(strpos($_SERVER['HTTP_REFERER'],'slock') !== false) {
     $message = $name . " ( $from ) wrote the following:" . "\n\n" . $_POST['txt'];
     $message2 = "Here is a copy of your message " . $name . "\n\n" . $_POST['txt'];
 
-    $headers = "";//"From:" . $from;
-    $headers2 = "From:" . $to;
+    $headers = "From:" . $to;
     mail($to,$subject,$message,$headers);
-    mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
+    mail($from,$subject2,$message2,$headers); // sends a copy of the message to the sender
 }
 ?>
