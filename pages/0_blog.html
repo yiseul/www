@@ -3,7 +3,7 @@
    
     <?php 
    if (isset($_GET['c'])) {
-        echo "<p ><div class='feature-text' style='padding-bottom:15px'>";
+        echo "<p ><div class='feature-text blog' style='padding-bottom:15px'>";
         include "php/Parsedown.php";
         $pd = new Parsedown();
         echo $pd->text(file_get_contents("pages/blog/".$_GET['c'].".md"));
