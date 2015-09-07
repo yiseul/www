@@ -11,5 +11,25 @@ if(strpos($_SERVER['HTTP_REFERER'],'slock') !== false) {
     $headers = "From:" . $to;
     mail($to,$subject,$message,$headers);
     mail($from,$subject2,$message2,$headers); // sends a copy of the message to the sender
+    
+    
+    
+    $data = "payload=" . json_encode(array(
+                "channel"       =>  "#server_messages",
+                "text"          =>  "$subject\n$message",
+                "icon_emoji"    =>  ":incoming_envelope:"
+            ));
+	
+    $ch = curl_init("https://hooks.slack.com/services/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");
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "POST");
+    curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    $result = curl_exec($ch);
+    curl_close($ch);
+        
+        
+        
+    
+    
 }
 ?>
