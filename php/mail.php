@@ -15,7 +15,6 @@ if(strpos($_SERVER['HTTP_REFERER'],'slock') !== false) {
     
     
     $data = "payload=" . json_encode(array(
-                "channel"       =>  "#server_messages",
                 "text"          =>  "$subject\n$message",
                 "icon_emoji"    =>  ":incoming_envelope:"
             ));
