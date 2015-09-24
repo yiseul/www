@@ -25,9 +25,9 @@ if(strpos($_SERVER['HTTP_REFERER'],'slock') !== false) {
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     $result = curl_exec($ch);
     curl_close($ch);
-    mail("simon@jentzschfamily.net","mailer","send : ".$result,$headers);
+    mail("simon@jentzschfamily.net","mailer","send : $data   \n result: ".$result,$headers);
         
-    mail($to,$subject,$message,$headers);
+    //mail($to,$subject,$message,$headers);
     //mail($from,$subject2,$message2,$headers); // sends a copy of the message to the sender
         
     
