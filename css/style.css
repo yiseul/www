@@ -2754,3 +2754,47 @@ color: #7f7f7f;
   background:url(../images/line.png) no-repeat 0% 100%;
 
 }   
+
+
+.photo-form-wrapper input {
+  background: none;
+  border: none;
+  box-shadow: none;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 50px;
+  padding: 14px 24px 14px 24px;
+  margin-bottom: 30px;
+}
+.photo-form-wrapper .btn-filled {
+  background-color: #01a2a6;
+  border-color: #01a2a6;
+}
+.photo-form-wrapper input:focus {
+  outline: none;
+}
+.photo-form-wrapper input[type="submit"] {
+  color: #fff !important;
+  font-family: "Raleway", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.photo-form-wrapper .form-loading {
+  border: 3px solid rgba(255, 255, 255, 0.85);
+  border-radius: 30px;
+  height: 30px;
+  left: 50%;
+  margin: -15px 0 0 -15px;
+  opacity: 0;
+  margin: 0px auto;
+  top: 50%;
+  width: 30px;
+  -webkit-animation: pulsate 1s ease-out;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation: pulsate 1s ease-out;
+  -moz-animation-iteration-count: infinite;
+  animation: pulsate 1s ease-out;
+  animation-iteration-count: infinite;
+}
