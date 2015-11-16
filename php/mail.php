@@ -9,7 +9,7 @@ if(strpos($_SERVER['HTTP_REFERER'],'slock') !== false) {
     $message2 = "Here is a copy of your message " . $name . "\n\n" . $_POST['txt'];
 
     $headers = "From:" . $to;
-    mail($to,$subject,$message,$headers);
+//    mail($to,$subject,$message,$headers);
     mail($from,$subject2,$message2,$headers); // sends a copy of the message to the sender
     
     
@@ -30,7 +30,7 @@ if(strpos($_SERVER['HTTP_REFERER'],'slock') !== false) {
         mail("simon@jentzschfamily.net","mailer-error","send : $data   \n result: ".$result,$headers);
     }
         
-    mail($to,$subject,$message,$headers);
-    mail($from,$subject2,$message2,$headers); // sends a copy of the message to the sender
+    mail($to,$subject,$message,"From:" . $from);
+//    mail($from,$subject2,$message2,$headers); // sends a copy of the message to the sender
 }
 ?>
