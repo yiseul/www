@@ -4,8 +4,6 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-
 <url>
   <loc>http://slock.it/</loc>
   <changefreq>daily</changefreq>
@@ -15,7 +13,7 @@
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://www.slock.it/index.php?c=20150901_vision</loc>
+  <loc>http://slock.it/index.php?c=20150901_vision</loc>
   <changefreq>weekly</changefreq>
 </url>
 </urlset>
