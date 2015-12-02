@@ -1,3 +1,5 @@
+# FAQ
+
 ### When is the Token Sale?
 
 We are working with the community to design the Decentralized Autonomous Organization (DAO) that will control the funds generated in the Token Sale. We want to get every detail right as this DAO is likely to control millions of ether. Join our Slack to help us build the DAO. We will make all of our important announcements to our community on Slack first. 
