@@ -32,5 +32,6 @@ if(strpos($_SERVER['HTTP_REFERER'],'slock') !== false) {
         
     mail($to,$subject,$message,"From:" . $from);
 //    mail($from,$subject2,$message2,$headers); // sends a copy of the message to the sender
+    echo "200";
 }
 ?>
