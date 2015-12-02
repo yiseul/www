@@ -57,7 +57,7 @@
 						<div class="col-md-9 col-sm-9 columns text-right">
 							<ul class="menu">
 								<li><a href="https://blog.slock.it" target="_new">BLOG</a></li>
-								<li><a href="faq.html">FAQ</a></li>
+								<li><a href="#faq">FAQ</a></li>
 								<li><a href="#contact">Contact</a></li>
 							</ul>
 		
@@ -265,7 +265,7 @@
 							<p class="lead space-bottom-medium">
 								Christoph Jentzsch, Founder, demonstrates renting and opening a smart door lock with the Blockchain at the London Ethereum Devcon One conference.
 							</p>
-							<a href="faq.html" class="btn btn-primary">Read our FAQ</a>
+							<a href="#faq" class="btn btn-primary">Read our FAQ</a>
 							<a href="https://www.youtube.com/channel/UCPOrzp3CZmdb5HJWxSjv4Ig" class="btn btn-primary btn-text-only" target="_new">More Videos</a>
 							
 						</div>
@@ -539,7 +539,7 @@
 							<p class="lead space-bottom-medium">
 								Hear what Alex van de Sande, Chief Designer at Ethereum for the Mist project, had to say about Slock.it while at the Ethereum London Devcon One conference.
 							</p>
-							<a href="faq.html" class="btn btn-primary">Read our FAQ</a>
+							<a href="#faq" class="btn btn-primary">Read our FAQ</a>
 							<a href="https://www.youtube.com/channel/UCPOrzp3CZmdb5HJWxSjv4Ig" class="btn btn-primary btn-text-only" target="_new">More Videos</a>
 						</div>
 						
@@ -937,6 +937,34 @@
 
 
 
+	
+			<!-- ************************************ -->
+			<!-- *******       FAQ       ******** -->
+			<!-- ************************************ -->
+			<a name="faq"></a>
+			<section class="inline-image-right">
+				<div class="container">
+
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
+							<h1>FAQ</h1>
+						</div>
+					</div>
+					
+					<div class="row">
+
+                  <div id="faq_content">
+                     <!-- INCLUDE_FAQ -->
+                     
+                     <!-- /INCLUDE_FAQ -->
+                  </div>
+
+
+					</div>
+
+				</div>
+			</section>
+
 
 
 			
@@ -1146,14 +1174,12 @@
 		<!-- **************************************** -->
 
 		<script type="text/javascript">
-		<!--
 		function gen_mail_to_link(lhs,rhs,subject)
 		{
 			document.write("<A HREF=\"mailto");
 			document.write(":" + lhs + "@");
 			document.write(rhs + "?subject=" + subject + "\">" + lhs + "@" + rhs + "<\/A>"); 
 		} 
-		// --> 
 		</script>
 
 
@@ -1171,7 +1197,15 @@
         <script src="js/lightbox.min.js"></script>
         <script src="js/jquery.countdown.min.js"></script>
         <script src="js/scripts.js"></script>
+        <script src="js/markdown.min.js"></script>
 
+		<script type="text/javascript">
+          $(document).ready(function(){
+             $.get( "md/faq.md", function( data ) {
+               $('#faq_content').html( markdown.toHTML( data ));
+            });
+          });
+      </script>
 
     </body>
 
