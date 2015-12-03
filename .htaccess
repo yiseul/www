@@ -1,0 +1,11 @@
+RewriteEngine on
+RewriteRule .+\.(markdown|mdown|md|mkd)$ php/md.php
+
+RewriteCond %{QUERY_STRING} .*20151107\_devcon2.*
+RewriteRule .* https://medium.com/@slockit/former-ethereum-cco-stephan-tual-joins-slock-it-team-9fd956f2408 [R=301,L]
+
+RewriteCond %{QUERY_STRING} .*20151101_devcon1.*
+RewriteRule .* https://medium.com/@slockit/decentralized-sharing-economy-to-be-revealed-at-leading-blockchain-conference-f419f15beb7f [R=301,L]
+
+RewriteCond %{QUERY_STRING} .*20150901_vision.*
+RewriteRule .* https://medium.com/@slockit/slock-it-decentralizing-the-emerging-sharing-economy-cf19ce09b957 [R=301,L]

@@ -3,10 +3,10 @@ if(strpos($_SERVER['HTTP_REFERER'],'slock') !== false) {
     $to = "info@slock.it"; // this is your Email address
     $from = $_POST['email']; // this is the sender's Email address
     $name = $_POST['name'];
-    $subject = "slock.it-request: ".$_POST['subject'];
+    $subject = "slock.it-request";
     $subject2 = "Copy of your slock.it form submission";
-    $message = $name . " ( $from ) wrote the following:" . "\n\n" . $_POST['txt'];
-    $message2 = "Here is a copy of your message " . $name . "\n\n" . $_POST['txt'];
+    $message = $name . " ( $from ) wrote the following:" . "\n\n" . $_POST['message'];
+    $message2 = "Here is a copy of your message " . $name . "\n\n" . $_POST['message'];
 
     $headers = "From:" . $to;
 //    mail($to,$subject,$message,$headers);
@@ -15,7 +15,7 @@ if(strpos($_SERVER['HTTP_REFERER'],'slock') !== false) {
     
     
     $data = array("payload"=> json_encode(array(
-                "text"          =>  "$subject\n$message",
+                "text"          =>  $message,
                 "icon_emoji"    =>  ":incoming_envelope:"
             )));
 	
@@ -32,5 +32,6 @@ if(strpos($_SERVER['HTTP_REFERER'],'slock') !== false) {
         
     mail($to,$subject,$message,"From:" . $from);
 //    mail($from,$subject2,$message2,$headers); // sends a copy of the message to the sender
+    echo "200";
 }
 ?>
