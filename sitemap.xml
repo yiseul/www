@@ -12,8 +12,4 @@
   <loc>http://slock.it/index.html</loc>
   <changefreq>daily</changefreq>
 </url>
-<url>
-  <loc>http://slock.it/index.php?c=20150901_vision</loc>
-  <changefreq>weekly</changefreq>
-</url>
 </urlset>
