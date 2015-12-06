@@ -7,6 +7,10 @@
 .bg-secondary-2 {
   background-color: #01a2a6 !important;
 }
+
+.bg-secondary-3 {
+  background-color: rgba(57, 79, 100, 1) !important;
+}
 .bg-white {
   background-color: #fff !important;
 }
@@ -793,6 +797,13 @@ header .btn:last-child {
 .page-header p.lead {
   font-size: 18px;
 }
+
+/* visited link */
+.page-header p.lead a:visited {
+    color: #428bca;
+}
+
+
 .page-header:before {
   position: absolute;
   width: 100%;
