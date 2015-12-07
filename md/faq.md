@@ -17,6 +17,7 @@ Our mission is to build the future infrastructure of the sharing economy by enab
 - solves the issue of needing to be physically present to hand over keys
 - helps both owners and renters finding each other
 - is universal supporting varied objects including cars, lockers, apartments, sheds, office space, etc.
+
 If it can be locked, it can be Slocked!
 
 For a good introduction to our vision, please see Christoph Jentzsch [introductory blog post](https://blog.slock.it/slock-it-blog/slock-it-decentralizing-the-emerging-sharing-economy-cf19ce09b957#.4j2mtca7t).
