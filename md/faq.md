@@ -30,7 +30,7 @@ Almost anything can be retrofitted with a slock: homes, offices, power tools, bi
 
 The sharing economy has created [17](http://venturebeat.com/2015/06/04/the-sharing-economy-has-created-17-billion-dollar-companies-and-10-unicorns/) billion-dollar companies with 60,000 employees.
 The sector has received north of $15 billion in funding so far and its global yearly revenue is projected
-to reach $335 billion by 2025 (source: [PWC](https://www.pwc.com/us/en/technology/publications/assets/pwc-consumer-intelligence-series-the-sharing-economy.pdf))).
+to reach $335 billion by 2025 (source: [PWC](https://www.pwc.com/us/en/technology/publications/assets/pwc-consumer-intelligence-series-the-sharing-economy.pdf)).
 
 We believe that very soon, cars will be available in the street for rent, Airbnbs will be fully automated, and entrepreneurs will 
 prefer to rent private work spaces on demand rather than commit to complex leases. 
