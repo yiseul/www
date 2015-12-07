@@ -27,6 +27,9 @@
 				margin-left:20px;
 				line-height: 35px;
 			}
+			.article-body li {
+                                margin-left: 20px;
+                       }
 
 			.article-body p {
 				margin-bottom: 14px;
