@@ -5,11 +5,14 @@
 > This document is in development and we'd love your feedback.    
 > To become part of the conversation, ask questions or receive help, join our [Slack chat room](http://slock.it:3000/)  .
 
+
+
 ## The Project
 
 ### What problem are you trying to solve?
 
-Our mission is to build the future infrastructure of the sharing economy by enabling anyone to rent, sell or share anything - without middlemen. Slock.it:
+Our mission is to build the future infrastructure of the sharing economy by enabling anyone to rent, sell or share anything - without middlemen.
+Slock.it:
 
 - makes it possible to trust the other party without an intermediary
 - handles secure direct payments

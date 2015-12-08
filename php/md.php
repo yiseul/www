@@ -28,8 +28,8 @@
 				line-height: 35px;
 			}
 			.article-body li {
-                                margin-left: 20px;
-                       }
+         margin-left: 20px;
+      }
 
 			.article-body p {
 				margin-bottom: 14px;
@@ -40,13 +40,13 @@
 				margin-bottom: 20px;
 			}
          
-         .article-body p:first-child.lead {
+      .article-body p:first-child.lead {
 				margin-top: 0px;
 			}
          
-         .article-body ul {
-            list-style-type: circle;
-         }
+      .article-body ul {
+        list-style-type: disc;
+      }
 
 		</style>
    <?php
