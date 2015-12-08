@@ -45,7 +45,7 @@
 			}
          
          .article-body ul {
-            list-style: inherit;
+            list-style-type: circle;
          }
 
 		</style>
