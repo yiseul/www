@@ -60,6 +60,9 @@
    $pre = "";
    $post = "";
    $h = 0;
+   
+   // add target to links
+   $html = str_replace  ( "<a href=" ,"<a target=\"_blank\" href=" ,$html);
 
    // pre & post
    $html = preg_replace_callback ( "/<(blockquote|h1|h2)>(.*?)<\/(blockquote|h1|h2)>/s" , function ($match) use (&$pre,&$post,&$h)  {
@@ -130,8 +133,6 @@
    <?php
    
    echo $html;
-//   echo "<section class=\"inline-image-right\" style=\"background:white\"><div class=\"container\"><div class=\"row\">".$html."</div></div></section>";
-        
    echo substr($index, strpos( $index, "<!-- content_end -->"));
    
  ?>
