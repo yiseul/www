@@ -293,7 +293,7 @@ by allowing any Slock token holder to vote on all major business decisions.
 
 <br><br>
 
-Note: _the following section of the FAQ is technical and covers advanced topics that originate from Vitalik Buterin's blog post on [The Subjectivity / Exploitability Tradeoff](https://blog.ethereum.org/2015/02/14/subjectivity)_.
+*Note: the following section of the FAQ is technical and covers advanced topics that originate from Vitalik Buterin's blog post on [The Subjectivity / Exploitability Tradeoff](https://blog.ethereum.org/2015/02/14/subjectivity).*
 
 ### What's a 51% attack, and how do you prevent it?
 
