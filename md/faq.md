@@ -7,7 +7,7 @@
 
 ## The Project
 
-### What problem are you trying to solve?
+### What are you trying to achieve?
 
 Our mission is to build the future infrastructure of the sharing economy by enabling anyone to rent, sell or share anything - without middlemen.
 
@@ -31,7 +31,7 @@ Our solution enables both consumers and businesses to turn assets into income.
 Almost anything can be retrofitted with a Slock: homes, offices, power tools, bicycles, household electronics, cars, motorcycles and of course lockers.
 
 The sharing economy has created [17](http://venturebeat.com/2015/06/04/the-sharing-economy-has-created-17-billion-dollar-companies-and-10-unicorns/) billion-dollar companies with 60,000 employees.
-The sector has received north of $15 billion in funding so far and its global yearly revenue is projected
+The sector has received close to $15 billion in funding so far and its global yearly revenue is projected
 to reach $335 billion by 2025 (source: [PWC](https://www.pwc.com/us/en/technology/publications/assets/pwc-consumer-intelligence-series-the-sharing-economy.pdf)).
 
 We believe that very soon, cars will be available in the street for rent, Airbnbs will be fully automated, and entrepreneurs will 
@@ -84,8 +84,7 @@ To join, simply connect with one of us in our [chat room](http://Slock.it:3000/)
 
 ### How do Slocks work?
 
-Slocks will come in many shapes and sizes. The owner of a Slock sets a deposit amount and a price for using one ore more items.
- A user can then makes a payment on the Ethereum blockchain, thereby gaining permission to open or close that Slock through a mobile app.
+Slocks will come in many shapes and sizes. The owner of a Slock sets a deposit amount and a price for using one or more items. A user can then make a payment on the Ethereum blockchain, thereby gaining permission to open or close that Slock through a mobile app.
 
 The deposit is held as collateral in a smart contract until the user returns the item. 
 Smart contracts are automatically enforced, with the deposit returned to the user minus the cost of the rental, 
@@ -94,16 +93,16 @@ which in turn will be automatically disbursed to the owner of the Slock.
 All of this happens without any assistance from a third-party.
 
 
-### Will users have to pay everytime they use a Slock?
+### Will users have to pay every time they use a Slock?
 
 Unlike in Philip K Dick's "[Ubik](https://twitter.com/aprilaser/status/564811861024329729)", 
 they won't have to. Only renting access to the lock costs money. 
-Any current user (which could also include the owner) sends [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-Overview) signed messages 
+Any current user (which could also include the owner) sends [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-Overview)-signed messages 
 (which do not cost anything) to open or close the door.
 
 ### Who earns from the usage of the Slocks?
 
-The DAO Token owners will benefit from the Slock fees. The Slock usage fees represent the cost of decentralization 
+The Slock Token owners will benefit from the Slock fees. The Slock usage fees represent the cost of decentralization 
 and will be determined by the DAO itself when it engages with the service provider.
 
 ### What if users want to own a Slock outright?
@@ -122,7 +121,7 @@ is provide an insurance option 'baked' into the usage contract. A crude example 
 which in the case of items that are too cumbersome to transport - or are of a low enough value - might work quite well. 
 A more complex implementation could include a link to a sharing economy insurance contract, something we are currently working on with partners.
 
-### What happens if there no power or Internet?
+### What happens if there is no power or Internet?
 
 The same thing that would happen if any other smart lock was employed: some will 'fail secure' while others will 'fail safe'.
 Which mode of operation is used is not determined by the Slock DAO, but instead by the use case and local regulation. For example, 
@@ -135,9 +134,9 @@ fire rated and hotel room doors will probably 'fail safe' while a locker will ce
 ### What exactly is the "Ethereum Computer"?
 
 A tiny, preinstalled, preconfigured home server running both an optimized Ethereum node and a series of decentralised application: 
-a web3 identity vault, a Slock gateway to your IoT, and even some experimental software including an IPFS server that could earn you a few ethers.
+a web3 identity vault, a Slock gateway to your IoT, and even some experimental software including an IPFS server to rent some of your storage in exchange of ethereum.
 
-In short, it's little box that manages your permissions and identity, with strong encryption and permission control. 
+In short, it's a little box that manages your permissions and identity, with strong encryption and permission control. 
 It's a secure gatekeeper between the web & web3 to your home IoT, communicating with your smart objects via zigbee or zwave. 
 It's also a brilliant development platform, packaging all the software that's needed as part of an optimized image.
 
@@ -181,7 +180,7 @@ Once the project is launched, anyone not owning these tokens will have to pay a 
 A portion of the fees will go back to all the Slock token holders to continue growing his sharing community and creating a healthy virtuous circle.
 
 In order to keep that process fair and decentralized even after the presale, a DAO will be created to so that the funds 
-held by the sharing community will never be centraly managed. Slock tokens holders will be able to vote on important 
+held by the sharing community will never be centrally managed. Slock tokens holders will be able to vote on important 
 decisions relating to the management of the DAO.
 
 ### What are Slock tokens?
@@ -220,9 +219,7 @@ will be the ones purchased during the Slock token presale, that's it.
 
 ### Will there be another opportunity to purchase tokens?
 
-There will be only one Slock token presale. Once launched during the course of 2017, 
-the Slock DAO will be fully autonomous and decentralized. How it then manages itself, including decisions on its finances, 
-is entirely up to 'it'. Slock token holders will hold voting rights, be able to submit proposals, and pass motions.
+There will be only one Slock token presale. Once launched during the course of 2016, the Slock DAO will be fully autonomous and decentralized. How it then manages itself, including decisions on its finances, is entirely up to 'it'. Slock token holders will hold voting rights, be able to submit proposals, and pass motions.
 
 ### How will the DAO control the funds it receives during the presale?
 
@@ -249,10 +246,7 @@ Not directly. In order to take part, you must use a crypto currency. To exchange
 
 ### DA.. what?
 
-DAO, or Decentralized Autonomous Organization, is a form of company which operates entirely on the blockchain. 
-Slock token holders can review proposals and cast their votes to elect a service provider which will represents 
-them in the physical world,. This process is very similar to selecting a software or hardware supplier. 
-A DAO is however superior in many respect to a traditional company in the sense that all the decisions it takes are transparent, 
+DAO, or Decentralized Autonomous Organization, is a form of company which operates entirely on the blockchain. Slock token holders can review proposals and cast their votes to elect a service provider which will represent them in the physical world. This process is very similar to selecting a software or hardware supplier. A DAO is however superior in many respect to a traditional company in the sense that all the decisions it takes are transparent, 
 its finances can be audited by anyone and corruption is made impossible.
 
 ### Is this just for geeks?
