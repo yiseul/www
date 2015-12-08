@@ -12,6 +12,7 @@
 ### What problem are you trying to solve?
 
 Our mission is to build the future infrastructure of the sharing economy by enabling anyone to rent, sell or share anything - without middlemen.
+
 Slock.it:
 
 - makes it possible to trust the other party without an intermediary
