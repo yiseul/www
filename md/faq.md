@@ -298,9 +298,7 @@ by allowing any Slock token holder to vote on all major business decisions.
 ### What's a 51% attack, and how do you prevent it?
 
 If someone was to acquire 51% of the Slock tokens, they could vote themselves as the service provider, and then send 100% of the funds to their own account. 
-In order to prevent this, the Slock DAO is able to split itself proportionally to the vote results, leaving the attacker with his money and the rest of the 
-participants with their own. Because of this mechanism, there is no incentive to run such an attack, since it is not only unprofitable, but the attacker 
-would also be stuck with worthless Slock Tokens from his own fork of the DAO.
+In order to prevent this, the Slock DAO is able to split itself proportionally to the vote results, leaving the attacker with his funds and the rest of the  participants with their own. Because of this mechanism, there is no incentive to run such an attack, since it is not only unprofitable, but the attacker would also be stuck with worthless Slock Tokens from his own fork of the DAO.
 
 ### Why is there only a single service provider at any given time?
 
@@ -314,10 +312,7 @@ At anytime.
 
 ### What is the process for selecting a new service provider?
 
-This takes place in two steps. The first step is a simple majority vote on keeping the existing service provider or choosing a new one. The second step is a confirmation vote, 
-where the minority, having lost the previous vote but comfortable the winner is in fact not an attacker, 
-can vote alongside the majority in order to avoid splitting the DAO. On the other hand, if the minority does suspects a 51% attack, 
-it's important for it to keep its ability stick with its decision to split the DAO, effectively rendering any attack unprofitable.
+This takes place in two steps. The first step is a simple majority vote on keeping the existing service provider or choosing a new one. The second step is a confirmation vote, where the minority, having lost the previous vote but comfortable the winner is in fact not an attacker, can vote alongside the majority in order to avoid splitting the DAO. On the other hand, if the minority does suspects a 51% attack, it's important for it to keep its ability to stick with its decision to split the DAO, effectively rendering any attack unprofitable.
 
 
 
