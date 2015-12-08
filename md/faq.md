@@ -3,9 +3,7 @@
 # Frequently Asked Questions
 
 > This document is in development and we'd love your feedback.    
-> To become part of the conversation, ask questions or receive help, join our [Slack chat room](http://slock.it:3000/)  .
-
-
+> To become part of the conversation, ask questions or receive help, join our [Slack chat room](http://Slock.it:3000/).
 
 ## The Project
 
@@ -24,13 +22,13 @@ Slock.it:
 
 If it can be locked, it can be Slocked!
 
-For a good introduction to our vision, please see Christoph Jentzsch [introductory blog post](https://blog.slock.it/slock-it-blog/slock-it-decentralizing-the-emerging-sharing-economy-cf19ce09b957#.4j2mtca7t).
+For a good introduction to our vision, please see Christoph Jentzsch [introductory blog post](https://blog.Slock.it/Slock-it-blog/Slock-it-decentralizing-the-emerging-sharing-economy-cf19ce09b957#.4j2mtca7t).
 
-### What is slock.it potential market?
+### What is Slock.it potential market?
 
 Anywhere where there are underused assets such as parked cars, parking slots or temporarily vacant apartments.
 Our solution enables both consumers and businesses to turn assets into income. 
-Almost anything can be retrofitted with a slock: homes, offices, power tools, bicycles, household electronics, cars and motorcycles, and of course lockers.
+Almost anything can be retrofitted with a Slock: homes, offices, power tools, bicycles, household electronics, cars, motorcycles and of course lockers.
 
 The sharing economy has created [17](http://venturebeat.com/2015/06/04/the-sharing-economy-has-created-17-billion-dollar-companies-and-10-unicorns/) billion-dollar companies with 60,000 employees.
 The sector has received north of $15 billion in funding so far and its global yearly revenue is projected
@@ -45,7 +43,7 @@ We're slowly but surely reaching a point where the millennials' philosophy is be
 [94%](http://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2014/Nielsen-Global-Share-Community-Report.pdf) in China. 
 We believe Slock.it is uniquely placed to address those needs, today.
 
-### Who are slock.it potential partners?
+### Who are Slock.it potential partners?
 
 We are currently reaching out to a number of partners, in particular:
 
@@ -59,27 +57,27 @@ We are currently reaching out to a number of partners, in particular:
 
 Should Slock.it GmbH be selected as the DAO service provider, our vision is for all the code, the smart contracts, user interfaces, mobile apps, 
 the DAO itself, that is, everything forming the Slock.it DAO to be free, libre and Open Source, for anyone to use and reuse, 
-meaning we'll not only make these things public, we'll also do everything everything in our power to see companies other than us develop slock.it framework compatible products.
+meaning we'll not only make these things public, we'll also do everything in our power to see companies other than us develop Slock.it framework compatible products.
 
 ### What's in it for Slock.it GmbH then?
 
 Slock.it GmbH will put up a proposal to become the DAO's service provider at the end of the token presale. 
-Slock.it GmbH is a for profit company, and the DAO is one of its clients. Parallel to its open source engagement with the DAO, 
-the Slock.it GmbH will also develop other products, for example hardware related to consulting engagements, 
-which are closed source and proprietary.
+Slock.it GmbH is a for profit company, and the DAO is one of its clients. Parallel to its open source engagement with the DAO, Slock.it GmbH will also be consulting and developing unrelated, closed source products for its other private clients.
 
 ### Can I help with anything?
 
-Yes, it's an open source project and everyone is encourage to participate in any way they can. We're currently 
-trialling a volunteer program for community organizers, to join simply connect with one of us in our chatroom.
+Yes, it's an open source project and everyone is encouraged to participate in any way they can. We're currently 
+trialling a volunteer program for community organizers. 
 
-Thing we could use help with include:
+Things we could use help with include:
 
-- Reviewing and contributing code on [github](https://github.com/slockit/) (it's an open source projectafter all!)
+- Reviewing and contributing code on [github](https://github.com/Slockit/) (it's an open source project after all!)
 - Analysing the market in different parts of the world
 - Translating the site, the whitepaper, the videos and the apps
-- Operating local forums (especially in non-roman character set languages)
+- Operating local forums (especially in non-roman character sets)
 - Later on, testing prototype hardware
+
+To join, simply connect with one of us in our [chat room](http://Slock.it:3000/).
 
 
 ## How it works
@@ -96,39 +94,39 @@ which in turn will be automatically disbursed to the owner of the Slock.
 All of this happens without any assistance from a third-party.
 
 
-### Will users have to pay everytime they use a slock?
+### Will users have to pay everytime they use a Slock?
 
 Unlike in Philip K Dick's "[Ubik](https://twitter.com/aprilaser/status/564811861024329729)", 
 they won't have to. Only renting access to the lock costs money. 
 Any current user (which could also include the owner) sends [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-Overview) signed messages 
 (which do not cost anything) to open or close the door.
 
-### Who earns from the usage of the slocks?
+### Who earns from the usage of the Slocks?
 
-The DAO Token owners will benefit from the slock fees. The Slock usage fees represent the cost of decentralization 
+The DAO Token owners will benefit from the Slock fees. The Slock usage fees represent the cost of decentralization 
 and will be determined by the DAO itself when it engages with the service provider.
 
-### What if users want to own a slock outright?
+### What if users want to own a Slock outright?
 
-It's possible, by paying a one-time deployment fee to the DAO. This will remove the per use fee. 
+It's possible, by paying a one-time deployment fee to the DAO. This will remove the per-use fee. 
 Note that the amount in question will be determined by the DAO itself when it engages with the service provider.
 
-### Will users be able to use a debit or credit card to open a slock?
+### Will users be able to use a debit or credit card to open a Slock?
 
 We'd very much like that. We're currently approaching various financial institutions to try and make this a reality.
 
 ### Aren't the Slocks going to get vandalized?
 
-Of course some will, Slocks aren't a panacea agains theft or damage. What Slocks can do that traditional locks cannot however, 
-is provide an insurance option baked into the usage contract. A crude example would be setting a deposit, 
-and in the case of items that are too cumbersome to transport, or of a low enough value, might work quite well. 
+Of course some will, as Slocks aren't a panacea for theft or damage. What Slocks can do that traditional locks cannot, 
+is provide an insurance option 'baked' into the usage contract. A crude example would be setting a deposit, 
+which in the case of items that are too cumbersome to transport - or are of a low enough value - might work quite well. 
 A more complex implementation could include a link to a sharing economy insurance contract, something we are currently working on with partners.
 
 ### What happens if there no power or Internet?
 
 The same thing that would happen if any other smart lock was employed: some will 'fail secure' while others will 'fail safe'.
 Which mode of operation is used is not determined by the Slock DAO, but instead by the use case and local regulation. For example, 
-fire rated and hotel room doors will probably 'fail safe' while a locker door will certainly 'fail secure').
+fire rated and hotel room doors will probably 'fail safe' while a locker will certainly 'fail secure').
 
 
 
@@ -139,18 +137,17 @@ fire rated and hotel room doors will probably 'fail safe' while a locker door wi
 A tiny, preinstalled, preconfigured home server running both an optimized Ethereum node and a series of decentralised application: 
 a web3 identity vault, a Slock gateway to your IoT, and even some experimental software including an IPFS server that could earn you a few ethers.
 
-In short, it's little box that manages your permissions and identity with strong encryption and permission control. 
+In short, it's little box that manages your permissions and identity, with strong encryption and permission control. 
 It's a secure gatekeeper between the web & web3 to your home IoT, communicating with your smart objects via zigbee or zwave. 
-It's also a brilliant development platform, packaging all you need as part of an optimized image.
+It's also a brilliant development platform, packaging all the software that's needed as part of an optimized image.
 
-### What are some good use cases of the Ethereum Computer?
+### What are some good use cases for the Ethereum Computer?
 
-- Never have to trust 3rd party servers with either your keys or smart contract execution by pointing web-based Dapps to your Ethereum Computer
-- Rent your flat or share any Slock.it enabled smart object directly and securely on the Blockchain
-- Run an IFPS node and get rewarded for offering storage space to the network
-- Develop applications with Ethereum and never have to worry about installiation difficulties, updates or compatibility between the various modules of the Ethereum
-'framework' (Whisper, EVM, Web3.js, Swarm, etc). We only push updates when we have tested the stack top to bottom
-- Help secure the network and get rewarded for it once Ethereum has switched to PoS, without having to dedicate larger, more expensive equipment to that task
+- Never have to trust 3rd party servers with your keys or smart contract execution: web servers should only serve static Dapp assets, not act as middlemen relaying queries to the blockchain
+- Enable your entire home to communicate with the blockchain: rent your flat or share any Slock.it enabled smart object directly and securely. 
+- Run an IFPS node and perhaps even get rewarded for offering storage space to the network
+- Develop applications with Ethereum and never have to worry about installation difficulties, updates or compatibility issues between the various modules of the Ethereum 'framework' (Whisper, EVM, Web3.js, Swarm, etc). We will push updates only when we have tested the current stack top to bottom
+- Help secure the network and get rewarded for it (once Ethereum has switched to PoS), without having to dedicate larger, more expensive and less secure equipment to that task
 
 ### Will it be hackable/open?
 
@@ -167,7 +164,7 @@ Late 2017, although we anticipate devkits much earlier as part of an iterative d
 
 The Ethereum Computer is a full Ethereum client and therefore perfectly capable to have its mining function enabled. 
 That said, it would not be a good platform to mine on while Ethereum is still using proof of work, as its form factor prevents 
-it from having the crunching power GPUs have. It will be perfectly possible to help secure the Ethereum network once Ethereum switches to proof of stake.
+it from having the crunching power GPUs have. The Ethereum Computer will be a perfectly appropriate platform to help secure the network once Ethereum switches to proof of stake.
 
 
 ## The Presale
@@ -180,8 +177,8 @@ is a fair model, we didn't feel it would make any sense to hand out 5% to the Ki
 So instead, we're using the blockchain to organize a presale where people pledge to support building the Slock.it sharing community, 
 and in exchange receive a reward in the form of Slock tokens that can be used with any Slocks.
 
-Once the project is launched, anyone not owning these tokens will have to pay a fee to the slocks in order to use them. 
-A portion of the fees will go back to all the slock token holders to continue growing his sharing community and creating a healthy virtuous circle.
+Once the project is launched, anyone not owning these tokens will have to pay a fee to the Slocks in order to use them. 
+A portion of the fees will go back to all the Slock token holders to continue growing his sharing community and creating a healthy virtuous circle.
 
 In order to keep that process fair and decentralized even after the presale, a DAO will be created to so that the funds 
 held by the sharing community will never be centraly managed. Slock tokens holders will be able to vote on important 
@@ -207,7 +204,7 @@ If you would like to mine something, try [ether](https://github.com/ethereum/go-
 
 ### Will I be able to send, receive and exchange Slock tokens?
 
-Yes, there will be functions build in the smart contract to send/receive slock tokens however, 
+Yes, there will be functions build in the smart contract to send/receive Slock tokens however, 
 these will not be activated until the project launches in earnest in 2017.
 
 ### Will I need to be technical to purchase tokens?
@@ -229,7 +226,7 @@ is entirely up to 'it'. Slock token holders will hold voting rights, be able to 
 
 ### How will the DAO control the funds it receives during the presale?
 
-The Slock token holders will elect the service provider of their choosing, and under the conditions under which funds are distributed. 
+The Slock token holders will elect the service provider of their choosing, and the conditions under which funds are distributed. 
 These decisions are entirely governed by smart contracts, and accessible through a simple online interface.
 
 ### Is there a minimum goal for the presale?
@@ -244,7 +241,7 @@ including Litecoin, Doge, Maidsafe, StorjcoinX, Bitshares, BitUSD, Nxt, Dash, Cl
 
 ### Will the Slock token presale accept FIAT currencies?
 
-Not directly. In order to take part, you must use a virtual currency. We will provide a detailed tutorial soon, how you can exchange them using [kraken.com](https://kraken.com).
+Not directly. In order to take part, you must use a crypto currency. To exchange FIAT for Crypto currencies you should use an exchange such as [Kraken](https://kraken.com).
 
 
 
@@ -252,7 +249,7 @@ Not directly. In order to take part, you must use a virtual currency. We will pr
 
 ### DA.. what?
 
-DAO, or Decentralized Autonomous Organization, is form of company which operates entirely on the blockchain. 
+DAO, or Decentralized Autonomous Organization, is a form of company which operates entirely on the blockchain. 
 Slock token holders can review proposals and cast their votes to elect a service provider which will represents 
 them in the physical world,. This process is very similar to selecting a software or hardware supplier. 
 A DAO is however superior in many respect to a traditional company in the sense that all the decisions it takes are transparent, 
@@ -260,7 +257,7 @@ its finances can be audited by anyone and corruption is made impossible.
 
 ### Is this just for geeks?
 
-Definitely not. In order to make decisions, token holders will be able to vote a straightforward interface using Mist, 
+Definitely not. In order to make decisions, token holders will be able to vote using a straightforward interface using Mist, 
 the Ethereum browser. You'll have to be able to install software on your machine, and use what essentially looks and feel like a website. 
 That's it.
 
@@ -272,7 +269,7 @@ The smart contract specifies the terms of the relationship between the DAO and i
 Once a provider has been selected, the DAO can call functions on the service provider smart contract, setting the values of operating parameters which could include, 
 for example, how much of a usage fee is taken from each Slock and returned to the Slock token holders.
 
-What parameters are available depend on the service provider and could range from a 'hands off' approach to complete operational control.
+What parameters are available depend on the service provider and could range from a 'hands off' approach to having the DAO hold complete operational control.
 
 ### Who can submit proposals to vote on?
 
@@ -293,7 +290,10 @@ Because we believe DAOs are the future of how business are structured. A DAO wil
 traditional presale as investors will stay in control of the funds even after the presale has ended. DAOs also bring about open governance 
 by allowing any Slock token holder to vote on all major business decisions.
 
-Note: _the following section of the FAQ is technical and covers advanced topics that originate from Vitalik Buterin's blog post on [The Subjectivity / Exploitability Tradeoff](https://blog.ethereum.org/2015/02/14/subjectivity)._
+
+<br><br>
+
+*Note: the following section of the FAQ is technical and covers advanced topics that originate from Vitalik Buterin's blog post on [The Subjectivity / Exploitability Tradeoff](https://blog.ethereum.org/2015/02/14/subjectivity).*
 
 ### What's a 51% attack, and how do you prevent it?
 
