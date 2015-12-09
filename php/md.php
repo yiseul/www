@@ -2,10 +2,15 @@
    include "Parsedown.php";
    
    header('Content-Type: text/html');
-   $index     = file_get_contents("../index.html");
+   
    $requested = rawurldecode( $_SERVER['REQUEST_URI'] );
+   $lang="";
+   if (strpos($requested, "_de.md") !==false) $lang="_de";
+   if (strpos($requested, "_zh.md") !==false) $lang="_zh";
+   
+   $index     = file_get_contents("../index$lang.html");
    $md_source = $_SERVER['DOCUMENT_ROOT'] . $requested;
-   if ( !file_exists( $md_source ) )
+   if ( !file_exists( $md_source ) ) 
        $md_source = "../md/" . end(explode( '/', $requested ));
    else {
        // rewrite relative links if not on the same level as index.html

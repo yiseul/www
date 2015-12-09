@@ -9,3 +9,9 @@ RewriteRule .* https://medium.com/@slockit/decentralized-sharing-economy-to-be-r
 
 RewriteCond %{QUERY_STRING} .*20150901_vision.*
 RewriteRule .* https://medium.com/@slockit/slock-it-decentralizing-the-emerging-sharing-economy-cf19ce09b957 [R=301,L]
+
+#german
+RewriteCond %{HTTP:Accept-Language} ^de.*$ [NC]
+RewriteCond %{QUERY_STRING} !(^q\=) [NC]
+RewriteCond %{REQUEST_URI} ^(.*)/$ [NC]
+RewriteRule ^(.*)$ index_de.html
