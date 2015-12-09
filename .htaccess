@@ -13,6 +13,6 @@ RewriteRule .* https://medium.com/@slockit/slock-it-decentralizing-the-emerging-
 SetEnvIf Request_URI ^/$            toplevel
 
 #german
-RewriteCond %{HTTP:Accept-Language} ^de.*$ [NC]
-RewriteCond %{ENV:toplevel}         1
-RewriteRule ^(.*)$ index_de.html
+#RewriteCond %{HTTP:Accept-Language} ^de.*$ [NC]
+#RewriteCond %{ENV:toplevel}         1
+#RewriteRule ^(.*)$ index_de.html
