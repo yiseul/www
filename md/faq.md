@@ -67,7 +67,7 @@ Slock.it GmbH is a for profit company, and the DAO is one of its clients. Parall
 ### Can I help with anything?
 
 Yes, it's an open source project and everyone is encouraged to participate in any way they can. We're currently 
-trialling a volunteer program for community organizers. 
+trialling a volunteer program. 
 
 Things we could use help with include:
 
@@ -75,7 +75,7 @@ Things we could use help with include:
 - Analysing the market in different parts of the world
 - Translating the site, the whitepaper, the videos and the apps
 - Operating local forums (especially in non-roman character sets)
-- Later on, testing prototype hardware
+- Testing prototype hardware
 
 To join, simply connect with one of us in our [chat room](http://Slock.it:3000/).
 
@@ -134,36 +134,36 @@ fire rated and hotel room doors will probably 'fail safe' while a locker will ce
 ### What exactly is the "Ethereum Computer"?
 
 A tiny, preinstalled, preconfigured home server running both an optimized Ethereum node and a series of decentralised applications: 
-a web3 identity vault, a Slock gateway to your IoT, and even some experimental software including an IPFS server to rent some of your storage in exchange of ether.
+a web3 identity vault, a Slock gateway to your IoT, and some experimental software including an IPFS server to rent some of your hard drive space in exchange of ether.
 
-In short, it's a little box that manages your permissions and identity, with strong encryption and permission control. 
+Simply put, it's a little box that manages your permissions and identity, with strong encryption and permission control. 
 It's a secure gatekeeper between the web & web3 to your home IoT, communicating with your smart objects via zigbee or zwave. 
 It's also a brilliant development platform, packaging all the software that's needed as part of an optimized image.
 
-### What are some good use cases for the Ethereum Computer?
+### What could I do with the Ethereum Computer?
 
-- Never have to trust 3rd party servers with your keys or smart contract execution: web servers should only serve static Dapp assets, not act as middlemen relaying queries to the blockchain
+- Secure your keys and execute smart contract without having to trust third parties. Web servers should only serve static Dapp assets, not act as middlemen relaying queries to the blockchain.
 - Enable your entire home to communicate with the blockchain: rent your flat or share any Slock.it enabled smart object directly and securely. 
-- Run an IFPS node and perhaps even get rewarded for offering storage space to the network
-- Develop applications with Ethereum and never have to worry about installation difficulties, updates or compatibility issues between the various modules of the Ethereum 'framework' (Whisper, EVM, Web3.js, Swarm, etc). We will push updates only when we have tested the current stack top to bottom
-- Help secure the network and get rewarded for it (once Ethereum has switched to PoS), without having to dedicate larger, more expensive and less secure equipment to that task
+- Run an IFPS node and perhaps even get rewarded for renting your unused hard drive space.
+- Develop applications with Ethereum and never have to worry about installation difficulties, updates or compatibility issues between the various modules of the Ethereum 'framework' (Whisper, EVM, Web3.js, Swarm, etc). We will push updates only when we have tested the stack top to bottom.
+- Help secure the Ethereum network and get rewarded for it (once Ethereum has switched to PoS), without having to dedicate larger, more expensive and less secure equipment to that task.
 
 ### Will it be hackable/open?
 
-Absolutely. We'll make the devkit images publicly available, but also all of the detailed code that went into building the 'stack' 
-so you can modify/improve on the installation itself. One thing we're aiming to do is using a board/SoC combination that is publicly 
+Absolutely. We'll not only make the devkit images publicly available, but also all of the detailed code that went into building the 'stack' 
+so you can modify/improve on the installation. One thing we're aiming to do is use a hardware (board+SoC) combination that is publicly 
 available so that one could completely rebuild the Ethereum Computer from scratch if they wanted to. Having some GPIO available 
-would also allow anyone to connect wired objects to the Ethereum network: we want you to be able to experiment!
+would also allow anyone to connect wired objects to the Ethereum network. We want you to be able to experiment!
 
 ### When will the Ethereum Computer become available for sale?
 
-Late 2017, although we anticipate devkits much earlier as part of an iterative development process.
+Sometime in 2017, although we anticipate devkits much earlier as part of an iterative development process.
 
 ### Will it be useful for mining?
 
 The Ethereum Computer is a full Ethereum client and therefore perfectly capable to have its mining function enabled. 
 That said, it would not be a good platform to mine on while Ethereum is still using proof of work, as its form factor prevents 
-it from having the crunching power GPUs have. The Ethereum Computer will be a perfectly appropriate platform to help secure the network once Ethereum switches to proof of stake.
+it from having the hashing power GPUs have. The Ethereum Computer will be a perfectly appropriate platform to help secure the network once Ethereum switches to proof of stake.
 
 
 ## The Presale
