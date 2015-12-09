@@ -134,7 +134,7 @@ fire rated and hotel room doors will probably 'fail safe' while a locker will ce
 ### What exactly is the "Ethereum Computer"?
 
 A tiny, preinstalled, preconfigured home server running both an optimized Ethereum node and a series of decentralized applications: 
-a web3 identity vault, a Slock gateway to your IoT, and some experimental software including an IPFS server to rent some of the device's unused hard drive space in exchange of ether - automatically.
+a web3 identity vault, a Slock gateway to your IoT, and some experimental software including an IPFS server to rent your unused hard drive space - automatically.
 
 Simply put, it's a little box that manages your permissions and identity, with strong encryption and permission control. 
 It's a secure gatekeeper between the web & web3 to your home IoT, communicating with your smart objects via zigbee or zwave. 
@@ -153,7 +153,7 @@ It's also a brilliant development platform, packaging all the software that's ne
 Absolutely. We'll not only make the devkit images publicly available, but also all of the detailed code that went into building the 'stack' 
 so you can modify/improve on the installation. One thing we're aiming to do is use a hardware (board+SoC) combination that is publicly 
 available so that one could completely rebuild the Ethereum Computer from scratch if they wanted to. Having some GPIO available 
-would also allow anyone to connect wired objects to the Ethereum network. We want you to be able to experiment!
+will also allow anyone to connect wired objects to the Ethereum network. We want you to be able to experiment!
 
 ### When will the Ethereum Computer become available for sale?
 
@@ -163,7 +163,7 @@ Sometime in 2017, although we anticipate devkits much earlier as part of an iter
 
 The Ethereum Computer is a full Ethereum client and therefore perfectly capable to have its mining function enabled. 
 That said, it would not be a good platform to mine on while Ethereum is still using proof of work, as its form factor prevents 
-it from having the hashing power GPUs have. The Ethereum Computer will be a perfectly appropriate platform to help secure the network once Ethereum switches to proof of stake.
+it from having the hashing power GPUs have. The Ethereum Computer will be a perfectly appropriate platform to help secure the network, but only once Ethereum switches to proof of stake.
 
 
 ## The Presale
