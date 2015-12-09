@@ -10,7 +10,9 @@ RewriteRule .* https://medium.com/@slockit/decentralized-sharing-economy-to-be-r
 RewriteCond %{QUERY_STRING} .*20150901_vision.*
 RewriteRule .* https://medium.com/@slockit/slock-it-decentralizing-the-emerging-sharing-economy-cf19ce09b957 [R=301,L]
 
+SetEnvIf Request_URI ^/$            toplevel
+
 #german
 RewriteCond %{HTTP:Accept-Language} ^de.*$ [NC]
-RewriteCond %{REQUEST_URI} !.*\..*
+RewriteCond %{ENV:toplevel}         1
 RewriteRule ^(.*)$ index_de.html
