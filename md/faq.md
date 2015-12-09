@@ -2,7 +2,7 @@
 
 # Frequently Asked Questions
 
-> This document is in development and we'd love your feedback.    
+> This document is in development, can and will change, so we'd love your feedback.    
 > To become part of the conversation, ask questions or receive help, join our [Slack chat room](http://Slock.it:3000/).
 
 
@@ -82,7 +82,7 @@ To join, simply connect with one of us in our [chat room](http://Slock.it:3000/)
 
 ### What are 'Slocks'?
 
-'Slock' is a porte-manteau of 'Smart, Safe and Secure Lock'. Any object using zigbee, zwave, bluetooth LE or wifi can already be used as a Slock thanks to our home product, the Ethereum Computer. When it comes to powering up a ‘dumb’ object, it will be a case of retrofitting it using smart plugs. Through parterships, Slocks will also in many shapes and sizes: bike locks, car locks, door locks are already being explored through parterships with IoT manufacturers.
+'Slock' is a porte-manteau of 'Smart, Safe and Secure Lock'. Any object using ZigBee, Z-Wave, Bluetooth LE or Wi-Fi can already be used as a Slock thanks to our home product, the Ethereum Computer. When it comes to powering up a ‘dumb’ object, it will be a case of retrofitting it using smart plugs. Through parterships, Slocks will also in many shapes and sizes: bike locks, car locks, door locks are already being explored through parterships with IoT manufacturers.
 
 
 ### How do Slocks work?
