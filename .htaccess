@@ -12,5 +12,5 @@ RewriteRule .* https://medium.com/@slockit/slock-it-decentralizing-the-emerging-
 
 #german
 RewriteCond %{HTTP:Accept-Language} ^de.*$ [NC]
-RewriteCond %{REQUEST_URI} !^.*\..*$
+RewriteCond %{REQUEST_URI} !.*\..*
 RewriteRule ^(.*)$ index_de.html
