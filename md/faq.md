@@ -133,8 +133,8 @@ fire rated and hotel room doors will probably 'fail safe' while a locker will ce
 
 ### What exactly is the "Ethereum Computer"?
 
-A tiny, preinstalled, preconfigured home server running both an optimized Ethereum node and a series of decentralised application: 
-a web3 identity vault, a Slock gateway to your IoT, and even some experimental software including an IPFS server to rent some of your storage in exchange of ethereum.
+A tiny, preinstalled, preconfigured home server running both an optimized Ethereum node and a series of decentralised applications: 
+a web3 identity vault, a Slock gateway to your IoT, and even some experimental software including an IPFS server to rent some of your storage in exchange of ether.
 
 In short, it's a little box that manages your permissions and identity, with strong encryption and permission control. 
 It's a secure gatekeeper between the web & web3 to your home IoT, communicating with your smart objects via zigbee or zwave. 
