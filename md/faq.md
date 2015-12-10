@@ -1,6 +1,6 @@
 > Version 1.2
 
-# Slock.it, in depth
+# Slock.it, in-depth
 
 > This document is in development, can and will change. We'd love your feedback.    
 > To become part of the conversation, ask questions or receive help, join our [Slack chat room](http://Slock.it:3000/).
@@ -30,13 +30,13 @@ For a good introduction to our vision, please see Christoph Jentzsch's [introduc
 
 ### What is Slock.it potential market?
 
-Anywhere where there are underused assets such as parked cars, parking slots or temporarily vacant apartments, there is an entrepreneur who can make a profit using SLock.it Our solution enables both consumers and businesses to turn assets into income. Almost anything can be retrofitted with a Slock: homes, offices, power tools, bicycles, household electronics, cars, motorcycles and of course lockers.
+Anywhere where there are underused assets such as parked cars, parking slots or temporarily vacant apartments, there is an entrepreneur who can make a profit using SLock.it. Our solution enables both consumers and businesses to turn these assets into income. Almost anything can be retrofitted with a Slock: homes, offices, power tools, bicycles, household electronics, cars, motorcycles and of course lockers.
 
 The sharing economy has created [17](http://venturebeat.com/2015/06/04/the-sharing-economy-has-created-17-billion-dollar-companies-and-10-unicorns/) different billion-dollar companies with 60,000 employees. The sector has received close to $15 billion in funding so far and its global yearly revenue is projected to reach $335 billion by 2025 (source: [PWC](https://www.pwc.com/us/en/technology/publications/assets/pwc-consumer-intelligence-series-the-sharing-economy.pdf)).
 
-We believe that very soon, cars will be available in the street for rent in every city, Airbnbs will be fully automated, and small business owners will prefer to rent private work spaces on demand rather than commit to complex leases. Owners in a sharing economy become both consumer and producer, leveraging Slocks to earn an income without losing revenue to any third party.
+We believe that very soon, cars will be available for rent in the streets of every city, Airbnbs will be fully automated, and small business owners will prefer to rent private work spaces on demand rather than commit to complex leases. Owners in a sharing economy become both consumers and producers, leveraging Slocks to earn an income without losing revenue to any third party.
 
-The millennials' philosophy is becoming "If you can rent it, why own it". and 66% of the world is willing to share or rent their personal assets for financial gain, and that figure is as high as [94%](http://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2014/Nielsen-Global-Share-Community-Report.pdf) in China. We believe Slock.it is uniquely placed to address those needs, today, worldwide.
+The millennials' philosophy is fast becoming "If you can rent it, why own it". 66% of the world is willing to share or rent their personal assets for financial gain, and that figure is as high as [94%](http://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2014/Nielsen-Global-Share-Community-Report.pdf) in China. We believe Slock.it is uniquely placed to address those needs worldwide, today.
 
 
 ### Who are Slock.it's potential partners?
@@ -53,12 +53,12 @@ We are currently reaching out to a number of partners, in particular:
 
 ### Is Slock.it open source?
 
-If Slock.it GmbH is selected as the first service provider for the DAO, we will make all the code, the smart contracts, user interfaces, mobile apps, and everything forming the Slock.it DAO free and open source, for anyone to use re-purpose. We'll not only make these things public, we'll also do everything in our power to see companies other than us develop Slock.it framework compatible products, as we are keen to see the ecosystem grow beyond what we started.
+If Slock.it GmbH is selected as the first service provider for the DAO, we will make all the code, the smart contracts, user interfaces, mobile apps, and everything forming the Slock.it DAO free and open source, for anyone to use and re-purpose. We'll not only make these things public, we'll also do everything in our power to see companies other than us develop Slock.it compatible products, as we are keen to see the ecosystem grow beyond what we started.
 
 
 ### What's in it for Slock.it GmbH then?
 
-Slock.it GmbH will put forward a proposal to become the DAO's service provider at the end of the token presale. Slock.it GmbH is a for profit company, and the DAO will be one of its clients. It's critical for us to see aligned incentives between the DAO and our company, so you can expect a symbiotic relationship - what we will work on privately will also benefit the Slock.it ecosystem as a whole. For example, we could engage in partnerships with lock manufacturers, consult for real estate companies building smart homes, integrate the Slock.it API at part of popular smart objects, work with banks for Slocks to be able to accept FIAT payments, etc. 
+Slock.it GmbH will put forward a proposal to become the DAO's service provider at the end of the token presale. Slock.it GmbH is a for profit company, and the DAO will hopefully become one of its clients. It's critical for us to see aligned incentives between the DAO and our company, so you can expect a symbiotic relationship - what we will work on privately will also benefit the Slock.it ecosystem as a whole. For example, Slock.it GmbH could engage in partnerships with lock manufacturers, consult for real estate companies building smart homes, integrate the Slock.it API at part of popular smart objects, work with banks for Slocks to accept FIAT payments, etc. 
 
 
 ### Can I help with anything?
@@ -82,21 +82,21 @@ To join, simply connect with one of us in our [chat room](http://Slock.it:3000/)
 
 ### What are 'Slocks'?
 
-'Slock' is a porte-manteau of 'Smart, Safe and Secure Lock'. Any object using ZigBee, Z-Wave, Bluetooth LE or Wi-Fi can already be used as a Slock thanks to our home product, the Ethereum Computer. When it comes to powering up a ‘dumb’ object, it will be a case of retrofitting it using smart plugs. Slocks will also come in many shapes and sizes: bike locks, car locks, door locks are already being explored through partnerships with IoT manufacturers.
+'Slock' is a porte-manteau of 'Smart, Safe and Secure Lock'. Any object supporting ZigBee, Z-Wave, Bluetooth LE or Wi-Fi can already be used as a Slock thanks to our first product, the Ethereum Computer. When it comes to powering up a ‘dumb’ object, it will just be a case of retrofitting it using smart plugs. Slocks will also come in many shapes and sizes: bike locks, car locks and door locks are already being explored through partnerships with IoT manufacturers.
 
 
 ### How do Slocks work?
 
-The owner of a Slock sets a deposit amount and a price for using the item. A user can find the Slock and price using the mobile app then make a payment on the Ethereum blockchain, thereby gaining permission to open or close that Slock.
+The owner of a Slock sets a deposit amount and a price for using the item. A user can find the Slock and its price using the mobile app then make a payment on the Ethereum blockchain, thereby gaining permission to open or close that Slock.
 
 A deposit is held as collateral in a smart contract until the user returns the item. The smart contract is automatically enforced, with the deposit returned to the user minus the cost of the rental, which in turn will be automatically disbursed to the owner of the Slock.
 
-All of this happens without any assistance from a third-party. 
+All of this happens without any assistance from any third-party. 
 
 
 ### Will users have to pay every time they use a Slock?
 
-Unlike in Philip K Dick's "[Ubik](https://twitter.com/aprilaser/status/564811861024329729)", they won't have to. Only renting access to the lock costs money. Any current user (which could also include the owner) sends [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-Overview)-signed messages (which do not cost anything) to open or close the door.
+They won't have to, only renting access to the lock costs money. Any current user (which could also include the owner) sends [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-Overview)-signed messages (which do not cost anything) to open or close the door.
 
 
 ### Will users be able to use a debit or credit card to open a Slock?
