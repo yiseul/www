@@ -289,7 +289,7 @@ Because we believe DAOs are the future of how businesses will be structured. A D
 
 ### What's a 51% attack, and how do you prevent it?
 
-If someone was to acquire 51% of the Slock tokens, they could vote themselves as the service provider, and then send 100% of the funds to their own account. In order to prevent this, the Slock DAO is able to split itself proportionally to the vote results, leaving the attacker with their funds and the rest of the  participants with their own. Because of this mechanism, there is no incentive to run such an attack, since it is not only unprofitable, but the attacker would also be stuck with worthless Slock tokens from their own fork of the DAO.
+If someone was to acquire 51% of the Slock tokens, they could vote themselves as the service provider, and then send 100% of the funds to their own account. In order to prevent this, the Slock DAO is able to split itself proportionally to the vote results, leaving the attacker with their funds and the rest of the  participants with their own. Because of this mechanism, there is no incentive to run such an attack, since it is not only unprofitable, but the attacker would also be stuck with worthless tokens from their own fork of the DAO.
 
 
 ### Why is there only a single service provider at any given time?
