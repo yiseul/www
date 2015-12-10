@@ -1,4 +1,4 @@
-> IN-DEPTH V.1.1
+> IN-DEPTH V.1.2
 
 # Frequently Asked Questions
 
@@ -53,12 +53,12 @@ We are currently reaching out to a number of partners, in particular:
 
 ### Is Slock.it open source?
 
-If Slock.it GmbH is selected as the first service provider for the DAO, we will make all the code, the smart contracts, user interfaces, mobile apps, and everything forming the Slock.it DAO free and open source, for anyone to use re-purpose. We'll not only make these things public, we'll also do everything in our power to see companies other than us develop Slock.it framework compatible products.
+If Slock.it GmbH is selected as the first service provider for the DAO, we will make all the code, the smart contracts, user interfaces, mobile apps, and everything forming the Slock.it DAO free and open source, for anyone to use re-purpose. We'll not only make these things public, we'll also do everything in our power to see companies other than us develop Slock.it framework compatible products, as we are keen to see the ecosystem grow beyond what we started.
 
 
 ### What's in it for Slock.it GmbH then?
 
-Slock.it GmbH will put forward a proposal to become the DAO's service provider at the end of the token presale. Slock.it GmbH is a for profit company, and the DAO will simply be one of its clients. Parallel to its open source engagement with the DAO, Slock.it GmbH will also be consulting and developing unrelated, closed source products for its other private clients.
+Slock.it GmbH will put forward a proposal to become the DAO's service provider at the end of the token presale. Slock.it GmbH is a for profit company, and the DAO will be one of its clients. It's critical for us to see aligned incentives between the DAO and our company, so you can expect a symbiotic relationship - what we will work on privately will also benefit the Slock.it ecosystem as a whole. For example, we could engage in partnerships with lock manufacturers, consult for real estate companies building smart homes, integrate the Slock.it API at part of popular smart objects, work with banks for Slocks to be able to accept FIAT payments, etc. 
 
 
 ### Can I help with anything?
@@ -82,7 +82,7 @@ To join, simply connect with one of us in our [chat room](http://Slock.it:3000/)
 
 ### What are 'Slocks'?
 
-'Slock' is a porte-manteau of 'Smart, Safe and Secure Lock'. Any object using ZigBee, Z-Wave, Bluetooth LE or Wi-Fi can already be used as a Slock thanks to our home product, the Ethereum Computer. When it comes to powering up a ‘dumb’ object, it will be a case of retrofitting it using smart plugs. Through parterships, Slocks will also in many shapes and sizes: bike locks, car locks, door locks are already being explored through parterships with IoT manufacturers.
+'Slock' is a porte-manteau of 'Smart, Safe and Secure Lock'. Any object using ZigBee, Z-Wave, Bluetooth LE or Wi-Fi can already be used as a Slock thanks to our home product, the Ethereum Computer. When it comes to powering up a ‘dumb’ object, it will be a case of retrofitting it using smart plugs. Slocks will also come in many shapes and sizes: bike locks, car locks, door locks are already being explored through partnerships with IoT manufacturers.
 
 
 ### How do Slocks work?
@@ -91,7 +91,7 @@ The owner of a Slock sets a deposit amount and a price for using the item. A use
 
 A deposit is held as collateral in a smart contract until the user returns the item. The smart contract is automatically enforced, with the deposit returned to the user minus the cost of the rental, which in turn will be automatically disbursed to the owner of the Slock.
 
-All of this happens without any assistance from a third-party.
+All of this happens without any assistance from a third-party. 
 
 
 ### Will users have to pay every time they use a Slock?
@@ -120,13 +120,15 @@ The same thing that would happen if any other smart lock was employed: some will
 
 ### What exactly is the "Ethereum Computer"?
 
-A tiny, preinstalled, preconfigured home server running both an optimized Ethereum node and exciting new decentralised applications: a web3 identity vault, a Slock gateway to your IoT, and even experimental software like an IPFS server to rent your unused hard drive space — automatically.
+It’s the easiest entry point to the world of Ethereum, without having to struggle setting up a client, buying Ether from an exchange or worrying about security updates.
 
-Simply put, it's a little box that manages your permissions and identity, with strong encryption and permission control.
+The Ethereum computer is a tiny, preinstalled, preconfigured home server running both an optimized Ethereum node and exciting new decentralised applications, including Mist. The Ethereum Computer is putting identity, funds and personal information back under the users’ control, and we think it’s going to change _everything_.
 
-It’s a secure gatekeeper between the web & web3 to your home IoT, communicating with your smart objects via zigbee or zwave.
+Think of a little box that manages your permissions and identity, with strong encryption and permission control. Inside you’ll find a web3 identity vault, a Slock gateway to your IoT, and even experimental software like an IPFS server to rent your unused hard drive space — automatically.
 
-And it’s also a brilliant development platform, packaging all the software that’s needed to build Ethereum Dapps as part of a straightforward, optimized image.
+- It’s the easier way to browse Dapps.
+- It’s a secure gatekeeper between the web & web3 to your home or small office IoT, communicating wirelessly with your smart objects.
+- And it’s also a brilliant development platform, packaging all the software needed to build Ethereum Dapps as part of a straightforward, optimized image.
 
 
 ### What could I do with the Ethereum Computer?
@@ -135,7 +137,7 @@ And it’s also a brilliant development platform, packaging all the software tha
 - Try out new, exciting applications: The Ethereum Computer is a full blown implementation of the Ethereum stack, and therefore can serve any Dapp via HDMI out to your home theater.
 - Browse web3 securely: you can simply point your browser, mobile phone or tablet to the Ethereum Computer, and the 3rd party web servers will only be used to serve static HTML assets, while your precious keys will safely stay within the confines of your home.
 - Participate in experimental programs: the Ethereum Computer can be used to for example run an IFPS node, perhaps even receiving rewards for renting your unused hard drive space.
-- Develop applications with Ethereum and never have to worry about installation difficulties. We’ll sort out updates and compatibility issues between the various modules of the Ethereum ‘framework’ (Whisper, EVM, Web3.js, Swarm, etc), and will push updates only when we have tested the stack top to bottom. 
+- Develop applications with Ethereum and never have to worry about installation difficulties. We’ll sort out updates and compatibility issues between the various modules of the Ethereum ‘framework’ (Whisper, EVM, Web3.js, Swarm, etc), and will push updates only when we have tested the stack top to bottom.
 - Help secure the Ethereum network and get rewarded for it (once Ethereum has switched to PoS), without having to dedicate larger, more expensive and less secure equipment to that task.
 
 
@@ -168,34 +170,34 @@ It will take place at the beginning of 2016 and will last roughly two months. Fu
 
 We're using smart contracts build on the Ethereum blockchain so people all over the world can be empowered to build a new future for the sharing economy, and in exchange for their early help, they will receive a reward in the form of Slock tokens which holds many benefits.
 
-Once the project is launched, anyone not paying with these tokens will have to pay the Slock token reward when using a Slock. This reward will go back to all the Slock token holders, proportionally to the number of tokens they hold, in order to continue growing this sharing community.
+In order to keep governance fair and decentralized, a DAO will be created so that the funds held by the sharing community will never be centrally managed. A small fee representing the cost of decentralization is taken from each Slock transaction not paid in Slock tokens and returned to the DAO, giving it an option to reinvest the profits to support its growth.
 
-In order to keep governance fair and decentralized, a DAO will be created so that the funds held by the sharing community will never be centrally managed. Slock tokens holders will be able to vote on important decisions relating to the management of the DAO and even find a new service provider.
+Slock tokens holders will be able to vote on important decisions relating to the management of the DAO, including redistributing profits amongst Slock token holders. 
 
 
 ### What are Slock tokens?
 
-Slock tokens allows the holders to vote on important issues in the Slock DAO and give them access to a portion of the revenue generated by Slocks, both proportionally to how many tokens they hold. The Slock token rewards are assigned directly to the Slock token holders.
+Slock tokens allows the holders to:
 
-
-### What do you get as a Slock Token holder? 
-
-The Slock Token owners will be eligible for rewards from each Slock. The Slock rewards incentivize the Slock Token holders to participate in the DAO and create a large network of profitable Slocks. The default reward will be set at roughly 1% of every Slock transaction and it can be adjusted by the DAO itself by a majority vote.
+- Vote on important issues in the DAO 
+- Open or close Slocks without having to pay a fee to the DAO
+- Trade them peer to peer or on exchanges
+- If voted by the DAO, get access to a portion of the profits generated by Slocks, proportionally to how many tokens they hold
 
 
 ### What if users want to own a Slock outright?
 
-It's possible, by paying a one-time deployment fee to the DAO. This will remove the per-use fee. Note that the amount in question will be determined by the DAO itself when it engages with the service provider.
+It's possible, by paying a one-time deployment fee to the DAO. This will remove the per-use fee. Note that the amount in question will be determined by the DAO itself as it engages with the service provider.
 
 
 ### Can I mine Slock tokens?
 
-No. Slock tokens are used purely to represent the proportion of votes and rewards a Slock token holder is entitled to as part of the DAO. If you would like to mine something, try [ether](https://github.com/ethereum/go-ethereum/wiki/Mining).
+No. Slock tokens are used purely to represent the proportion of votes a Slock token holder is entitled to as part of the DAO. If you would like to mine something, try [ether](https://github.com/ethereum/go-ethereum/wiki/Mining).
 
 
 ### Will I be able to send, receive and exchange Slock tokens?
 
-Yes, there will be functions build in the smart contract to send/receive Slock tokens however, these will not be activated until the project launches in earnest in 2017.
+Yes, there will be functions build in the smart contract to send/receive Slock tokens and peer to peer exchange will be possible from day one. 
 
 
 ### Will I need to be a programmer to purchase tokens?
@@ -251,7 +253,7 @@ Definitely not. In order to make decisions, token holders will be able to vote u
 
 The DAO can choose a service provider to implement a technology or develop a product, either by sending funds directly or signing a smart contract. The smart contract specifies the terms of the relationship between the DAO and its service provider.
 
-Once a provider has been selected, the DAO can call functions on the service provider smart contract, setting the values of operating parameters which could include, for example, what percentage of each Slock transaction is used to fund the Slock token rewards, or what milestones have to be reached before the service provider receives certain payments.
+Once a provider has been selected, the DAO can call functions on the service provider smart contract, setting the values of operating parameters which could include, for example, what percentage of each Slock transaction is used to further fund the DAO, or what milestones have to be reached before the service provider receives certain payments.
 
 What parameters are available depend on the service provider's smart contract and could range from a 'hands off' approach to having the DAO hold complete operational control.
 
