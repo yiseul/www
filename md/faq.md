@@ -121,7 +121,7 @@ The same thing that would happen if any other smart lock was employed: some will
 
 ### What exactly is the "Ethereum Computer"?
 
-It’s the easiest entry point to the world of Ethereum, without having to struggle setting up a client, buying Ether from an exchange or worrying about security updates.
+It’s the easiest entry point to the world of Ethereum, without having to struggle setting up a client, buying ether from an exchange or worrying about security updates.
 
 The Ethereum computer is a tiny, preinstalled, preconfigured home server running both an optimized Ethereum node and exciting new decentralised applications, including Mist. The Ethereum Computer is putting identity, funds and personal information back under the users’ control, and we think it’s going to change _everything_.
 
