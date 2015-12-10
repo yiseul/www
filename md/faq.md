@@ -30,7 +30,7 @@ For a good introduction to our vision, please see Christoph Jentzsch's [introduc
 
 ### What is Slock.it potential market?
 
-Anywhere where there are underused assets such as parked cars, parking slots or temporarily vacant apartments, there is an entrepreneur who can make a profit using SLock.it Our solution enables both consumers and businesses to turn assets into income. Almost anything can be retrofitted with a Slock: homes, offices, power tools, bicycles, household electronics, cars, motorcycles and of course lockers.
+Anywhere where there are underused assets such as parked cars, parking slots or temporarily vacant apartments, there is an entrepreneur who can make a profit using Slock.it Our solution enables both consumers and businesses to turn assets into income. Almost anything can be retrofitted with a Slock: homes, offices, power tools, bicycles, household electronics, cars, motorcycles and of course lockers.
 
 The sharing economy has created [17](http://venturebeat.com/2015/06/04/the-sharing-economy-has-created-17-billion-dollar-companies-and-10-unicorns/) different billion-dollar companies with 60,000 employees. The sector has received close to $15 billion in funding so far and its global yearly revenue is projected to reach $335 billion by 2025 (source: [PWC](https://www.pwc.com/us/en/technology/publications/assets/pwc-consumer-intelligence-series-the-sharing-economy.pdf)).
 
