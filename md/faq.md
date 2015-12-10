@@ -36,7 +36,7 @@ The sharing economy has created [17](http://venturebeat.com/2015/06/04/the-shari
 
 We believe that very soon, cars will be available in the street for rent in every city, Airbnbs will be fully automated, and small business owners will prefer to rent private work spaces on demand rather than commit to complex leases. Owners in a sharing economy become both consumer and producer, leveraging Slocks to earn an income without losing revenue to any third party.
 
-The millennials' philosophy is becoming "If you can rent it, why own it". and 66% of the world is willing to share or rent their personal assets for financial gain, and that figure is as high as [94%](http://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2014/Nielsen-Global-Share-Community-Report.pdf) in China. We believe Slock.it is uniquely placed to address those needs, today, worldwide.
+The millennials' philosophy is becoming "If you can rent it, why own it". And 66% of the world is willing to share or rent their personal assets for financial gain, and that figure is as high as [94%](http://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2014/Nielsen-Global-Share-Community-Report.pdf) in China. We believe Slock.it is uniquely placed to address those needs, today, worldwide.
 
 
 ### Who are Slock.it's potential partners?
