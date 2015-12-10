@@ -7,6 +7,10 @@
 .bg-secondary-2 {
   background-color: #01a2a6 !important;
 }
+
+.bg-secondary-3 {
+  background-color: rgba(57, 79, 100, 1) !important;
+}
 .bg-white {
   background-color: #fff !important;
 }
@@ -783,7 +787,7 @@ header .btn:last-child {
 .page-header {
   margin: 0px;
   padding: 0px;
-  padding: 160px 0px;
+  padding: 120px 0px;
   border-bottom: none;
 }
 .page-header h1 {
@@ -793,6 +797,13 @@ header .btn:last-child {
 .page-header p.lead {
   font-size: 18px;
 }
+
+/* visited link */
+.page-header p.lead a:visited {
+    color: #428bca;
+}
+
+
 .page-header:before {
   position: absolute;
   width: 100%;
@@ -4319,7 +4330,7 @@ footer.short-2 .contact-action:hover {
 }
 .product-action {
   height: auto;
-  padding: 120px 0 0 0;
+  padding: 130px 0 0 0;
 }
 .product-action {
   background: #01a2a6;

@@ -12,4 +12,8 @@
   <loc>http://slock.it/index.html</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>http://slock.it/faq.md</loc>
+  <changefreq>weekly</changefreq>
+</url>
 </urlset>
