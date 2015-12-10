@@ -30,21 +30,14 @@ For a good introduction to our vision, please see Christoph Jentzsch's [introduc
 
 ### What is Slock.it potential market?
 
-<<<<<<< HEAD
 Anywhere where there are underused assets such as parked cars, parking slots or temporarily vacant apartments, there is an entrepreneur who can make a profit using SLock.it. Our solution enables both consumers and businesses to turn these assets into income. Almost anything can be retrofitted with a Slock: homes, offices, power tools, bicycles, household electronics, cars, motorcycles and of course lockers.
-=======
-Anywhere where there are underused assets such as parked cars, parking slots or temporarily vacant apartments, there is an entrepreneur who can make a profit using Slock.it Our solution enables both consumers and businesses to turn assets into income. Almost anything can be retrofitted with a Slock: homes, offices, power tools, bicycles, household electronics, cars, motorcycles and of course lockers.
->>>>>>> 22c64198f810ba3fbc3cc3ae6a35dd53bcdf20fe
 
 The sharing economy has created [17](http://venturebeat.com/2015/06/04/the-sharing-economy-has-created-17-billion-dollar-companies-and-10-unicorns/) different billion-dollar companies with 60,000 employees. The sector has received close to $15 billion in funding so far and its global yearly revenue is projected to reach $335 billion by 2025 (source: [PWC](https://www.pwc.com/us/en/technology/publications/assets/pwc-consumer-intelligence-series-the-sharing-economy.pdf)).
 
 We believe that very soon, cars will be available for rent in the streets of every city, Airbnbs will be fully automated, and small business owners will prefer to rent private work spaces on demand rather than commit to complex leases. Owners in a sharing economy become both consumers and producers, leveraging Slocks to earn an income without losing revenue to any third party.
 
-<<<<<<< HEAD
 The millennials' philosophy is fast becoming "If you can rent it, why own it". 66% of the world is willing to share or rent their personal assets for financial gain, and that figure is as high as [94%](http://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2014/Nielsen-Global-Share-Community-Report.pdf) in China. We believe Slock.it is uniquely placed to address those needs worldwide, today.
-=======
-The millennials' philosophy is becoming "If you can rent it, why own it". And 66% of the world is willing to share or rent their personal assets for financial gain, and that figure is as high as [94%](http://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2014/Nielsen-Global-Share-Community-Report.pdf) in China. We believe Slock.it is uniquely placed to address those needs, today, worldwide.
->>>>>>> 22c64198f810ba3fbc3cc3ae6a35dd53bcdf20fe
+
 
 
 ### Who are Slock.it's potential partners?
