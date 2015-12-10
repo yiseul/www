@@ -1,6 +1,6 @@
-> IN-DEPTH V.1.2
+> Version 1.2
 
-# Frequently Asked Questions
+# Slock.it, in depth
 
 > This document is in development, can and will change. We'd love your feedback.    
 > To become part of the conversation, ask questions or receive help, join our [Slack chat room](http://Slock.it:3000/).
