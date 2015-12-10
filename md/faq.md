@@ -192,7 +192,7 @@ It's possible, by paying a one-time deployment fee to the DAO. This will remove 
 
 ### Can I mine Slock tokens?
 
-No. Slock tokens are used purely to represent the proportion of votes a Slock token holder is entitled to as part of the DAO. If you would like to mine something, try [ether](https://github.com/ethereum/go-ethereum/wiki/Mining).
+No. Slock tokens are used purely to represent the proportion of votes a Slock token holder is entitled to as part of the DAO. If you would like to mine something, try [Ether](https://github.com/ethereum/go-ethereum/wiki/Mining).
 
 
 ### Will I be able to send, receive and exchange Slock tokens?
