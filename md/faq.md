@@ -208,7 +208,7 @@ No, we want to be inclusive every step of the way so that as many people as poss
 
 ### Will anyone hold 'premined' tokens?
 
-No. We are morally opposed to premines, and deem them unfair and an obstacle to true innovation. The only tokens in circulation will be the ones purchased during the Slock token presale.
+No. No one will get an unfair advantage: the only tokens in circulation will be the ones purchased during the Slock token presale.
 
 
 ### Will there be another opportunity to purchase tokens?
