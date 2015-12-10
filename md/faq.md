@@ -304,7 +304,7 @@ At anytime.
 
 ### What is the process for selecting a new service provider?
 
-This takes place in two steps. The first step is a simple majority vote on keeping the existing service provider or choosing a new one. The second step is a confirmation vote, where the minority, having lost the previous vote but comfortable the winner is indeed not an attacker, can vote alongside the majority in order to avoid splitting the DAO. On the other hand, if the minority does suspects a 51% attack, it's important for it to keep its ability to stick with its decision to split the DAO, effectively rendering any attack unprofitable.
+This takes place in two steps. The first step is a simple vote on keeping the existing service provider or choosing a new one. The second step is a confirmation vote, where the minority, having lost the previous vote but comfortable the winner is indeed not an attacker, can vote alongside the majority in order to avoid splitting the DAO. On the other hand, if the minority does suspects a 51% attack, it's important for it to keep its ability to stick with its decision to split the DAO, effectively rendering any attack unprofitable.
 
 
 
