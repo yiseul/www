@@ -144,7 +144,7 @@ Think of a little box that manages your permissions and identity, with strong en
 
 ### Will it be hackable/open?
 
-Absolutely. We'll not only make the devkit images publicly available, but also all of the detailed code that went into building the 'stack' so you can modify/improve on the installation. One thing we're aiming to do is use a hardware (board+SoC) combination that is publicly available so that one could completely rebuild the Ethereum Computer from scratch if they wanted to. Having some GPIO available will also allow anyone to connect wired objects to the Ethereum network. We want you to be able to experiment!
+Absolutely. We'll not only make the devkit images publicly available, but also all of the detailed code that went into building the 'stack' so you can modify/improve on the installation. One thing we're aiming to do is use a hardware (board+SoC) combination that is commercially available so that one could completely rebuild the Ethereum Computer from scratch if they wanted to. Having some GPIO available will also allow anyone to connect wired objects to the Ethereum network. We want you to be able to experiment!
 
 
 ### When will the Ethereum Computer become available for sale?
