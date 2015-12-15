@@ -137,7 +137,7 @@ Think of a little box that manages your permissions and identity, with strong en
 - Enable your entire home to communicate with the blockchain: rent your flat, or share any Slock.it enabled smart object directly and securely.
 - Try out new, exciting applications: The Ethereum Computer is a full blown implementation of the Ethereum stack, and therefore can serve any Dapp via HDMI out to your home theater.
 - Browse web3 securely: you can simply point your browser, mobile phone or tablet to the Ethereum Computer, and the 3rd party web servers will only be used to serve static HTML assets, while your precious keys will safely stay within the confines of your home.
-- Participate in experimental programs: the Ethereum Computer can be used to run an IFPS node, perhaps even receiving rewards for renting your unused hard drive space.
+- Participate in experimental programs: the Ethereum Computer can be used to run an IPFS node, perhaps even receiving rewards for renting your unused hard drive space.
 - Develop applications with Ethereum and never have to worry about installation difficulties. We’ll sort out updates and compatibility issues between the various components of the Ethereum 'stack' (Whisper, EVM, Web3.js, Swarm, etc), and will push updates only when we have tested the framework top to bottom.
 - Help secure the Ethereum network and get rewarded for it (once Ethereum has switched to PoS), without having to dedicate larger, more expensive and less secure equipment to that task.
 
