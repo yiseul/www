@@ -564,7 +564,7 @@ function onYouTubeIframeAPIReady() {
 $(document).ready(function(){
     $.ajax({
       type: "GET",
-      url: "https://medium.com/feed/slock-it-blog/",
+      url: "http://mail.slock.it/rss.xml",
       dataType: "xml",
       success: function(xml) {
          var content = "";
