@@ -562,6 +562,7 @@ function onYouTubeIframeAPIReady() {
 
 // add rss-feeds
 $(document).ready(function(){
+    var max =5;
     $.ajax({
       type: "GET",
       url: "http://mail.slock.it/rss.xml",
@@ -571,8 +572,10 @@ $(document).ready(function(){
          $(xml).find("item").each(function(item) {
             var d = $(this).find("pubDate").text();
             d = d.substring(0,d.length-12);
-            content = content + "<li><div class='icon'><i class='icon icon-newspaper'></i></div>";
-            content = content + "<div class='title'><a style='font-size: 16px;' href='"+$(this).find("link").text()+"' target='_blank'>"+$(this).find("title").text()+"</a><span  class='sub alt-font'>Published on "+d+"</span></div></li>";
+            if (max-->0) {
+              content = content + "<li><div class='icon'><i class='icon icon-newspaper'></i></div>";
+              content = content + "<div class='title'><a style='font-size: 16px;' href='"+$(this).find("link").text()+"' target='_blank'>"+$(this).find("title").text()+"</a><span  class='sub alt-font'>Published on "+d+"</span></div></li>";
+            }
          });
          $("#rss_blog").html(content);
       }});
