@@ -122,7 +122,7 @@ $(document).ready(function(){
         var containerOffset = $(window).width() - $('.container').outerWidth();
         containerOffset = containerOffset /2;
         offset = offset - containerOffset - 15;
-        $(this).css('left', -offset);
+        $(this).css('left', -offset - 100);
     });
 
     $(window).resize(function () {
@@ -133,7 +133,7 @@ $(document).ready(function(){
 			var containerOffset = $(window).width() - $('.container').outerWidth();
 			containerOffset = containerOffset /2;
 			offset = offset - containerOffset - 15;
-			$(this).css('left', -offset);
+			$(this).css('left', -offset -100);
         });
     });
 
@@ -557,3 +557,23 @@ function onYouTubeIframeAPIReady() {
 	});
 	
 }
+
+
+
+// add rss-feeds
+$(document).ready(function(){
+    $.ajax({
+      type: "GET",
+      url: "https://blog.slock.it/feed",
+      dataType: "xml",
+      success: function(xml) {
+         var content = "";
+         $(xml).find("item").each(function(item) {
+            var d = $(this).find("pubDate").text();
+            d = d.substring(0,d.length-12);
+            content = content + "<li><div class='icon'><i class='icon icon-newspaper'></i></div>";
+            content = content + "<div class='title'><a style='font-size: 16px;' href='"+$(this).find("link").text()+"' target='_blank'>"+$(this).find("title").text()+"</a><span  class='sub alt-font'>Published on "+d+"</span></div></li>";
+         });
+         $("#rss_blog").html(content);
+      }});
+});
