@@ -7,6 +7,7 @@
    $lang="";
    if (strpos($requested, "_de.md") !==false) $lang="_de";
    if (strpos($requested, "_zh.md") !==false) $lang="_zh";
+   if (strpos($requested, "_fr.md") !==false) $lang="_fr";
    
    $index     = file_get_contents("../index$lang.html");
    $md_source = $_SERVER['DOCUMENT_ROOT'] . $requested;
